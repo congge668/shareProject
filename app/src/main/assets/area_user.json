@@ -1,0 +1,32 @@
+{
+  "areaData": [
+    {
+      "source": "花都",
+      "num": 6
+    },
+    {
+      "source": "天河",
+      "num": 8
+    },
+    {
+      "source": "黄埔",
+      "num": 12
+    },
+    {
+      "source": "番禺",
+      "num": 14
+    },
+    {
+      "source": "越秀",
+      "num": 18
+    },
+    {
+      "source": "海珠",
+      "num": 6
+    },
+    {
+      "source": "白云",
+      "num": 6
+    }
+  ]
+}

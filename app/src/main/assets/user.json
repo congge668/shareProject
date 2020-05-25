@@ -1,0 +1,32 @@
+{
+  "user_7day": [
+    {
+      "display_date": "今天",
+      "amount": 6
+    },
+    {
+      "display_date": "5.20",
+      "amount": 10
+    },
+    {
+      "display_date": "5.19",
+      "amount": 0
+    },
+    {
+      "display_date": "5.18",
+      "amount": 2
+    },
+    {
+      "display_date": "5.17",
+      "amount": 0
+    },
+    {
+      "display_date": "5.16",
+      "amount": 4
+    },
+    {
+      "display_date": "5.15",
+      "amount": 2
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+
+    "studyDetail": {
+      "memberCount": [
+        {
+          "day": "05.15",
+          "number": 1
+        },
+        {
+          "day": "05.16",
+          "number": 0
+        },
+        {
+          "day": "05.17",
+          "number": 2
+        },
+        {
+          "day": "05.18",
+          "number": 5
+        },
+        {
+          "day": "05.19",
+          "number": 1
+        },
+        {
+          "day": "05.20",
+          "number": 4
+        },
+        {
+          "day": "05.21",
+          "number": 1
+        }
+      ],
+      "studyHour": [
+        {
+          "day": "05.15",
+          "number": 2
+        },
+        {
+          "day": "05.16",
+          "number": 0
+        },
+        {
+          "day": "05.17",
+          "number": 0
+        },
+        {
+          "day": "05.18",
+          "number": 5
+        },
+        {
+          "day": "05.19",
+          "number": 30
+        },
+        {
+          "day": "05.20",
+          "number": 20
+        },
+        {
+          "day": "05.21",
+          "number": 20
+        }
+      ]
+    }
+
+}
